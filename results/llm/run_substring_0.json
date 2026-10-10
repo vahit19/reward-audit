@@ -1,0 +1,4032 @@
+{
+ "source": "substring",
+ "seed": 0,
+ "steps": [
+  {
+   "step": 0,
+   "call": 0,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 377.125,
+   "numbers_per_completion": 10.5,
+   "wealth": 0.5102040816326531
+  },
+  {
+   "step": 0,
+   "call": 1,
+   "reward": 0.625,
+   "true": 0.125,
+   "false_reward": 0.5,
+   "mean_len": 663.625,
+   "numbers_per_completion": 24.25,
+   "wealth": 0.39046230737192833
+  },
+  {
+   "step": 0,
+   "call": 2,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 677.125,
+   "numbers_per_completion": 12.5,
+   "wealth": 0.33202577157476904
+  },
+  {
+   "step": 0,
+   "call": 3,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 672.5,
+   "numbers_per_completion": 12.25,
+   "wealth": 0.29645158176318664
+  },
+  {
+   "step": 1,
+   "call": 4,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 640.75,
+   "numbers_per_completion": 19.875,
+   "wealth": 0.2722514526396612
+  },
+  {
+   "step": 1,
+   "call": 5,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 559.125,
+   "numbers_per_completion": 13.5,
+   "wealth": 0.2546569710064858
+  },
+  {
+   "step": 1,
+   "call": 6,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 639.125,
+   "numbers_per_completion": 15.75,
+   "wealth": 0.24129304832976062
+  },
+  {
+   "step": 1,
+   "call": 7,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 672.5,
+   "numbers_per_completion": 12.875,
+   "wealth": 0.23082880898892916
+  },
+  {
+   "step": 2,
+   "call": 8,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 564.375,
+   "numbers_per_completion": 14.875,
+   "wealth": 0.2224540676197163
+  },
+  {
+   "step": 2,
+   "call": 9,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 609.0,
+   "numbers_per_completion": 19.625,
+   "wealth": 0.2156442492231944
+  },
+  {
+   "step": 2,
+   "call": 10,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 746.75,
+   "numbers_per_completion": 17.75,
+   "wealth": 0.2100430998927218
+  },
+  {
+   "step": 2,
+   "call": 11,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 660.875,
+   "numbers_per_completion": 15.0,
+   "wealth": 0.20539928986108
+  },
+  {
+   "step": 3,
+   "call": 12,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 711.0,
+   "numbers_per_completion": 15.625,
+   "wealth": 0.2015299154837912
+  },
+  {
+   "step": 3,
+   "call": 13,
+   "reward": 0.375,
+   "true": 0.125,
+   "false_reward": 0.25,
+   "mean_len": 627.25,
+   "numbers_per_completion": 15.75,
+   "wealth": 0.1982983862267625
+  },
+  {
+   "step": 3,
+   "call": 14,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 640.875,
+   "numbers_per_completion": 16.0,
+   "wealth": 0.1956004489991875
+  },
+  {
+   "step": 3,
+   "call": 15,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 661.625,
+   "numbers_per_completion": 20.5,
+   "wealth": 0.19335503568159476
+  },
+  {
+   "step": 4,
+   "call": 16,
+   "reward": 1.0,
+   "true": 0.25,
+   "false_reward": 0.75,
+   "mean_len": 641.125,
+   "numbers_per_completion": 21.0,
+   "wealth": 0.2843456407082276
+  },
+  {
+   "step": 4,
+   "call": 17,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 617.375,
+   "numbers_per_completion": 11.875,
+   "wealth": 0.2659695618869476
+  },
+  {
+   "step": 4,
+   "call": 18,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 548.125,
+   "numbers_per_completion": 12.75,
+   "wealth": 0.2499713927508906
+  },
+  {
+   "step": 4,
+   "call": 19,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 651.125,
+   "numbers_per_completion": 22.875,
+   "wealth": 0.23594238601487122
+  },
+  {
+   "step": 5,
+   "call": 20,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 530.625,
+   "numbers_per_completion": 18.125,
+   "wealth": 0.2235605698391637
+  },
+  {
+   "step": 5,
+   "call": 21,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 732.75,
+   "numbers_per_completion": 17.75,
+   "wealth": 0.2125691874630267
+  },
+  {
+   "step": 5,
+   "call": 22,
+   "reward": 1.0,
+   "true": 0.625,
+   "false_reward": 0.375,
+   "mean_len": 633.75,
+   "numbers_per_completion": 21.125,
+   "wealth": 0.20276120365816655
+  },
+  {
+   "step": 5,
+   "call": 23,
+   "reward": 1.0,
+   "true": 0.75,
+   "false_reward": 0.25,
+   "mean_len": 524.75,
+   "numbers_per_completion": 14.125,
+   "wealth": 0.1939679881933991
+  },
+  {
+   "step": 6,
+   "call": 24,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 687.75,
+   "numbers_per_completion": 16.5,
+   "wealth": 0.1860509274508114
+  },
+  {
+   "step": 6,
+   "call": 25,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 699.75,
+   "numbers_per_completion": 15.0,
+   "wealth": 0.17889512254885712
+  },
+  {
+   "step": 6,
+   "call": 26,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 775.25,
+   "numbers_per_completion": 10.625,
+   "wealth": 0.17240459656068996
+  },
+  {
+   "step": 6,
+   "call": 27,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 575.375,
+   "numbers_per_completion": 16.75,
+   "wealth": 0.16649860819454387
+  },
+  {
+   "step": 7,
+   "call": 28,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 327.0,
+   "numbers_per_completion": 12.875,
+   "wealth": 0.16110878695812655
+  },
+  {
+   "step": 7,
+   "call": 29,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 659.25,
+   "numbers_per_completion": 21.5,
+   "wealth": 0.15617688531655124
+  },
+  {
+   "step": 7,
+   "call": 30,
+   "reward": 1.0,
+   "true": 0.5,
+   "false_reward": 0.5,
+   "mean_len": 511.375,
+   "numbers_per_completion": 14.25,
+   "wealth": 0.15165299923759915
+  },
+  {
+   "step": 7,
+   "call": 31,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 634.75,
+   "numbers_per_completion": 20.0,
+   "wealth": 0.1474941478554456
+  },
+  {
+   "step": 8,
+   "call": 32,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 520.125,
+   "numbers_per_completion": 20.875,
+   "wealth": 0.1436631310280314
+  },
+  {
+   "step": 8,
+   "call": 33,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 661.5,
+   "numbers_per_completion": 18.25,
+   "wealth": 0.14012760379384817
+  },
+  {
+   "step": 8,
+   "call": 34,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 675.5,
+   "numbers_per_completion": 13.25,
+   "wealth": 0.13685932148961846
+  },
+  {
+   "step": 8,
+   "call": 35,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 682.625,
+   "numbers_per_completion": 14.375,
+   "wealth": 0.13383352016416772
+  },
+  {
+   "step": 9,
+   "call": 36,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 669.25,
+   "numbers_per_completion": 15.0,
+   "wealth": 0.13102840501456023
+  },
+  {
+   "step": 9,
+   "call": 37,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 691.875,
+   "numbers_per_completion": 15.0,
+   "wealth": 0.1284247256453128
+  },
+  {
+   "step": 9,
+   "call": 38,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 630.125,
+   "numbers_per_completion": 17.5,
+   "wealth": 0.12600542155152353
+  },
+  {
+   "step": 9,
+   "call": 39,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 616.375,
+   "numbers_per_completion": 20.625,
+   "wealth": 0.12375532473810345
+  },
+  {
+   "step": 10,
+   "call": 40,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 628.625,
+   "numbers_per_completion": 18.625,
+   "wealth": 0.12166090908798124
+  },
+  {
+   "step": 10,
+   "call": 41,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 654.875,
+   "numbers_per_completion": 16.0,
+   "wealth": 0.11971007818423811
+  },
+  {
+   "step": 10,
+   "call": 42,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 498.0,
+   "numbers_per_completion": 17.125,
+   "wealth": 0.1178919849227784
+  },
+  {
+   "step": 10,
+   "call": 43,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 640.5,
+   "numbers_per_completion": 14.75,
+   "wealth": 0.11619687753288688
+  },
+  {
+   "step": 11,
+   "call": 44,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 429.125,
+   "numbers_per_completion": 9.875,
+   "wealth": 0.11461596763448025
+  },
+  {
+   "step": 11,
+   "call": 45,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 624.5,
+   "numbers_per_completion": 14.125,
+   "wealth": 0.11314131676429394
+  },
+  {
+   "step": 11,
+   "call": 46,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 628.25,
+   "numbers_per_completion": 12.625,
+   "wealth": 0.11176573844497122
+  },
+  {
+   "step": 11,
+   "call": 47,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 520.625,
+   "numbers_per_completion": 10.625,
+   "wealth": 0.11048271338629169
+  },
+  {
+   "step": 12,
+   "call": 48,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 510.5,
+   "numbers_per_completion": 14.0,
+   "wealth": 0.10928631582359132
+  },
+  {
+   "step": 12,
+   "call": 49,
+   "reward": 0.875,
+   "true": 0.75,
+   "false_reward": 0.125,
+   "mean_len": 355.625,
+   "numbers_per_completion": 8.75,
+   "wealth": 0.10817114933559549
+  },
+  {
+   "step": 12,
+   "call": 50,
+   "reward": 0.875,
+   "true": 0.25,
+   "false_reward": 0.625,
+   "mean_len": 716.0,
+   "numbers_per_completion": 14.125,
+   "wealth": 0.10713229075854296
+  },
+  {
+   "step": 12,
+   "call": 51,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 616.125,
+   "numbers_per_completion": 18.375,
+   "wealth": 0.10616524103819504
+  },
+  {
+   "step": 13,
+   "call": 52,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 546.625,
+   "numbers_per_completion": 14.375,
+   "wealth": 0.10526588204595773
+  },
+  {
+   "step": 13,
+   "call": 53,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 453.75,
+   "numbers_per_completion": 24.375,
+   "wealth": 0.10443043853765648
+  },
+  {
+   "step": 13,
+   "call": 54,
+   "reward": 0.625,
+   "true": 0.125,
+   "false_reward": 0.5,
+   "mean_len": 683.5,
+   "numbers_per_completion": 12.0,
+   "wealth": 0.10365544455964047
+  },
+  {
+   "step": 13,
+   "call": 55,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 676.0,
+   "numbers_per_completion": 18.0,
+   "wealth": 0.10293771371174208
+  },
+  {
+   "step": 14,
+   "call": 56,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 728.875,
+   "numbers_per_completion": 17.0,
+   "wealth": 0.10227431276408316
+  },
+  {
+   "step": 14,
+   "call": 57,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 602.5,
+   "numbers_per_completion": 16.375,
+   "wealth": 0.10166253819793629
+  },
+  {
+   "step": 14,
+   "call": 58,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 575.5,
+   "numbers_per_completion": 17.0,
+   "wealth": 0.10109989530234065
+  },
+  {
+   "step": 14,
+   "call": 59,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 770.5,
+   "numbers_per_completion": 12.625,
+   "wealth": 0.10058407950998177
+  },
+  {
+   "step": 15,
+   "call": 60,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 687.25,
+   "numbers_per_completion": 15.625,
+   "wealth": 0.10011295969963056
+  },
+  {
+   "step": 15,
+   "call": 61,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 581.375,
+   "numbers_per_completion": 16.25,
+   "wealth": 0.09968456322955314
+  },
+  {
+   "step": 15,
+   "call": 62,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 682.5,
+   "numbers_per_completion": 14.625,
+   "wealth": 0.0992970624978542
+  },
+  {
+   "step": 15,
+   "call": 63,
+   "reward": 0.875,
+   "true": 0.75,
+   "false_reward": 0.125,
+   "mean_len": 449.875,
+   "numbers_per_completion": 15.875,
+   "wealth": 0.098948762852613
+  },
+  {
+   "step": 16,
+   "call": 64,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 630.125,
+   "numbers_per_completion": 16.5,
+   "wealth": 0.09863809169765975
+  },
+  {
+   "step": 16,
+   "call": 65,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 732.375,
+   "numbers_per_completion": 15.0,
+   "wealth": 0.0983635886595401
+  },
+  {
+   "step": 16,
+   "call": 66,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 665.125,
+   "numbers_per_completion": 16.375,
+   "wealth": 0.09812389669814008
+  },
+  {
+   "step": 16,
+   "call": 67,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 533.0,
+   "numbers_per_completion": 15.375,
+   "wealth": 0.09791775405801793
+  },
+  {
+   "step": 17,
+   "call": 68,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 627.5,
+   "numbers_per_completion": 18.0,
+   "wealth": 0.09774398697007114
+  },
+  {
+   "step": 17,
+   "call": 69,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 562.5,
+   "numbers_per_completion": 14.0,
+   "wealth": 0.09760150302405063
+  },
+  {
+   "step": 17,
+   "call": 70,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 690.125,
+   "numbers_per_completion": 18.375,
+   "wealth": 0.09748928514187294
+  },
+  {
+   "step": 17,
+   "call": 71,
+   "reward": 0.375,
+   "true": 0.0,
+   "false_reward": 0.375,
+   "mean_len": 692.0,
+   "numbers_per_completion": 15.75,
+   "wealth": 0.09740638608988154
+  },
+  {
+   "step": 18,
+   "call": 72,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 615.875,
+   "numbers_per_completion": 10.75,
+   "wealth": 0.09735192347534988
+  },
+  {
+   "step": 18,
+   "call": 73,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 635.25,
+   "numbers_per_completion": 19.125,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 18,
+   "call": 74,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 631.0,
+   "numbers_per_completion": 14.125,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 18,
+   "call": 75,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 728.75,
+   "numbers_per_completion": 13.875,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 19,
+   "call": 76,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 607.625,
+   "numbers_per_completion": 15.5,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 19,
+   "call": 77,
+   "reward": 0.75,
+   "true": 0.625,
+   "false_reward": 0.125,
+   "mean_len": 605.5,
+   "numbers_per_completion": 11.625,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 19,
+   "call": 78,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 648.625,
+   "numbers_per_completion": 20.75,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 19,
+   "call": 79,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 620.0,
+   "numbers_per_completion": 15.25,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 20,
+   "call": 80,
+   "reward": 0.5,
+   "true": 0.25,
+   "false_reward": 0.25,
+   "mean_len": 586.875,
+   "numbers_per_completion": 21.5,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 20,
+   "call": 81,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 700.25,
+   "numbers_per_completion": 14.0,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 20,
+   "call": 82,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 575.625,
+   "numbers_per_completion": 14.0,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 20,
+   "call": 83,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 506.75,
+   "numbers_per_completion": 16.375,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 21,
+   "call": 84,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 466.0,
+   "numbers_per_completion": 12.375,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 21,
+   "call": 85,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 653.375,
+   "numbers_per_completion": 16.375,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 21,
+   "call": 86,
+   "reward": 0.5,
+   "true": 0.125,
+   "false_reward": 0.375,
+   "mean_len": 635.0,
+   "numbers_per_completion": 17.25,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 21,
+   "call": 87,
+   "reward": 1.0,
+   "true": 0.25,
+   "false_reward": 0.75,
+   "mean_len": 653.125,
+   "numbers_per_completion": 15.625,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 22,
+   "call": 88,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 618.5,
+   "numbers_per_completion": 16.875,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 22,
+   "call": 89,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 621.0,
+   "numbers_per_completion": 12.875,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 22,
+   "call": 90,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 649.25,
+   "numbers_per_completion": 19.625,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 22,
+   "call": 91,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 626.0,
+   "numbers_per_completion": 21.125,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 23,
+   "call": 92,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 789.75,
+   "numbers_per_completion": 13.25,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 23,
+   "call": 93,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 645.875,
+   "numbers_per_completion": 16.125,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 23,
+   "call": 94,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 685.375,
+   "numbers_per_completion": 19.375,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 23,
+   "call": 95,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 545.625,
+   "numbers_per_completion": 16.5,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 24,
+   "call": 96,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 637.5,
+   "numbers_per_completion": 19.625,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 24,
+   "call": 97,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 636.125,
+   "numbers_per_completion": 15.5,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 24,
+   "call": 98,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 687.375,
+   "numbers_per_completion": 18.75,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 24,
+   "call": 99,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 779.25,
+   "numbers_per_completion": 11.0,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 25,
+   "call": 100,
+   "reward": 0.25,
+   "true": 0.0,
+   "false_reward": 0.25,
+   "mean_len": 588.75,
+   "numbers_per_completion": 16.5,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 25,
+   "call": 101,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 672.875,
+   "numbers_per_completion": 17.5,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 25,
+   "call": 102,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 556.5,
+   "numbers_per_completion": 15.875,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 25,
+   "call": 103,
+   "reward": 0.875,
+   "true": 0.375,
+   "false_reward": 0.5,
+   "mean_len": 570.375,
+   "numbers_per_completion": 15.375,
+   "wealth": 0.09732507517874885
+  },
+  {
+   "step": 26,
+   "call": 104,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 697.125,
+   "numbers_per_completion": 19.0,
+   "wealth": 0.09694674641226197
+  },
+  {
+   "step": 26,
+   "call": 105,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 612.125,
+   "numbers_per_completion": 19.625,
+   "wealth": 0.09659210871841659
+  },
+  {
+   "step": 26,
+   "call": 106,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 518.625,
+   "numbers_per_completion": 12.125,
+   "wealth": 0.09626049362077563
+  },
+  {
+   "step": 26,
+   "call": 107,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 626.5,
+   "numbers_per_completion": 23.25,
+   "wealth": 0.09595126678941637
+  },
+  {
+   "step": 27,
+   "call": 108,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 640.5,
+   "numbers_per_completion": 15.125,
+   "wealth": 0.09566382618491709
+  },
+  {
+   "step": 27,
+   "call": 109,
+   "reward": 1.0,
+   "true": 0.0,
+   "false_reward": 1.0,
+   "mean_len": 638.375,
+   "numbers_per_completion": 21.25,
+   "wealth": 0.10870889339195125
+  },
+  {
+   "step": 27,
+   "call": 110,
+   "reward": 1.0,
+   "true": 0.625,
+   "false_reward": 0.375,
+   "mean_len": 586.875,
+   "numbers_per_completion": 12.75,
+   "wealth": 0.10742973009408678
+  },
+  {
+   "step": 27,
+   "call": 111,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 636.5,
+   "numbers_per_completion": 16.875,
+   "wealth": 0.10619648064147609
+  },
+  {
+   "step": 28,
+   "call": 112,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 593.5,
+   "numbers_per_completion": 13.625,
+   "wealth": 0.10500735624202305
+  },
+  {
+   "step": 28,
+   "call": 113,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 617.875,
+   "numbers_per_completion": 14.625,
+   "wealth": 0.10386065936934791
+  },
+  {
+   "step": 28,
+   "call": 114,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 615.5,
+   "numbers_per_completion": 22.625,
+   "wealth": 0.10275477834678165
+  },
+  {
+   "step": 28,
+   "call": 115,
+   "reward": 0.375,
+   "true": 0.125,
+   "false_reward": 0.25,
+   "mean_len": 676.125,
+   "numbers_per_completion": 16.125,
+   "wealth": 0.10168818230131013
+  },
+  {
+   "step": 29,
+   "call": 116,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 675.125,
+   "numbers_per_completion": 13.375,
+   "wealth": 0.10065941645908512
+  },
+  {
+   "step": 29,
+   "call": 117,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 622.125,
+   "numbers_per_completion": 18.625,
+   "wealth": 0.09966709775653101
+  },
+  {
+   "step": 29,
+   "call": 118,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 677.875,
+   "numbers_per_completion": 14.125,
+   "wealth": 0.14656926140666326
+  },
+  {
+   "step": 29,
+   "call": 119,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 660.125,
+   "numbers_per_completion": 17.125,
+   "wealth": 0.14395195316725856
+  },
+  {
+   "step": 30,
+   "call": 120,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 631.25,
+   "numbers_per_completion": 22.375,
+   "wealth": 0.14142690625725773
+  },
+  {
+   "step": 30,
+   "call": 121,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 693.375,
+   "numbers_per_completion": 13.25,
+   "wealth": 0.13899014290086806
+  },
+  {
+   "step": 30,
+   "call": 122,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 705.75,
+   "numbers_per_completion": 12.25,
+   "wealth": 0.13663789558447706
+  },
+  {
+   "step": 30,
+   "call": 123,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 656.875,
+   "numbers_per_completion": 15.625,
+   "wealth": 0.13436659416017946
+  },
+  {
+   "step": 31,
+   "call": 124,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 656.25,
+   "numbers_per_completion": 19.875,
+   "wealth": 0.13217285384736022
+  },
+  {
+   "step": 31,
+   "call": 125,
+   "reward": 0.875,
+   "true": 0.125,
+   "false_reward": 0.75,
+   "mean_len": 562.375,
+   "numbers_per_completion": 19.0,
+   "wealth": 0.2360229532988575
+  },
+  {
+   "step": 31,
+   "call": 126,
+   "reward": 0.875,
+   "true": 0.625,
+   "false_reward": 0.25,
+   "mean_len": 690.625,
+   "numbers_per_completion": 16.25,
+   "wealth": 0.2304096804259295
+  },
+  {
+   "step": 31,
+   "call": 127,
+   "reward": 1.0,
+   "true": 0.0,
+   "false_reward": 1.0,
+   "mean_len": 642.125,
+   "numbers_per_completion": 21.0,
+   "wealth": 0.4950207977900829
+  },
+  {
+   "step": 32,
+   "call": 128,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 602.5,
+   "numbers_per_completion": 15.75,
+   "wealth": 0.4796713156880648
+  },
+  {
+   "step": 32,
+   "call": 129,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 632.75,
+   "numbers_per_completion": 14.875,
+   "wealth": 0.46498749990169547
+  },
+  {
+   "step": 32,
+   "call": 130,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 564.375,
+   "numbers_per_completion": 14.5,
+   "wealth": 0.45093428678735853
+  },
+  {
+   "step": 32,
+   "call": 131,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 707.0,
+   "numbers_per_completion": 12.0,
+   "wealth": 0.43747876462440854
+  },
+  {
+   "step": 33,
+   "call": 132,
+   "reward": 0.875,
+   "true": 0.75,
+   "false_reward": 0.125,
+   "mean_len": 513.25,
+   "numbers_per_completion": 13.0,
+   "wealth": 0.4245900239756612
+  },
+  {
+   "step": 33,
+   "call": 133,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 574.25,
+   "numbers_per_completion": 13.125,
+   "wealth": 0.41223901962303383
+  },
+  {
+   "step": 33,
+   "call": 134,
+   "reward": 1.0,
+   "true": 0.375,
+   "false_reward": 0.625,
+   "mean_len": 657.0,
+   "numbers_per_completion": 14.875,
+   "wealth": 0.9924272694628592
+  },
+  {
+   "step": 33,
+   "call": 135,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 601.75,
+   "numbers_per_completion": 20.75,
+   "wealth": 0.9568345147507308
+  },
+  {
+   "step": 34,
+   "call": 136,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 530.125,
+   "numbers_per_completion": 21.875,
+   "wealth": 0.922911288993145
+  },
+  {
+   "step": 34,
+   "call": 137,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 564.125,
+   "numbers_per_completion": 22.75,
+   "wealth": 0.8905643538420988
+  },
+  {
+   "step": 34,
+   "call": 138,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 682.125,
+   "numbers_per_completion": 17.125,
+   "wealth": 0.8597064493483775
+  },
+  {
+   "step": 34,
+   "call": 139,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 590.625,
+   "numbers_per_completion": 14.375,
+   "wealth": 0.8302558639844024
+  },
+  {
+   "step": 35,
+   "call": 140,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 556.125,
+   "numbers_per_completion": 9.875,
+   "wealth": 0.8021360388038625
+  },
+  {
+   "step": 35,
+   "call": 141,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 576.125,
+   "numbers_per_completion": 18.5,
+   "wealth": 0.7752752027818304
+  },
+  {
+   "step": 35,
+   "call": 142,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 646.5,
+   "numbers_per_completion": 15.875,
+   "wealth": 0.7496060366557586
+  },
+  {
+   "step": 35,
+   "call": 143,
+   "reward": 0.875,
+   "true": 0.75,
+   "false_reward": 0.125,
+   "mean_len": 493.75,
+   "numbers_per_completion": 11.75,
+   "wealth": 0.7250653628366713
+  },
+  {
+   "step": 36,
+   "call": 144,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 549.5,
+   "numbers_per_completion": 26.875,
+   "wealth": 0.7015938591839712
+  },
+  {
+   "step": 36,
+   "call": 145,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 654.0,
+   "numbers_per_completion": 16.125,
+   "wealth": 0.6791357946392229
+  },
+  {
+   "step": 36,
+   "call": 146,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 507.625,
+   "numbers_per_completion": 14.0,
+   "wealth": 0.6576387848963737
+  },
+  {
+   "step": 36,
+   "call": 147,
+   "reward": 0.875,
+   "true": 0.25,
+   "false_reward": 0.625,
+   "mean_len": 724.625,
+   "numbers_per_completion": 15.75,
+   "wealth": 1.666314488757704
+  },
+  {
+   "step": 37,
+   "call": 148,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 704.5,
+   "numbers_per_completion": 13.0,
+   "wealth": 1.603322734354591
+  },
+  {
+   "step": 37,
+   "call": 149,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 609.75,
+   "numbers_per_completion": 19.5,
+   "wealth": 1.543334468783501
+  },
+  {
+   "step": 37,
+   "call": 150,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 513.25,
+   "numbers_per_completion": 13.875,
+   "wealth": 1.4861816583433496
+  },
+  {
+   "step": 37,
+   "call": 151,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 702.125,
+   "numbers_per_completion": 18.5,
+   "wealth": 1.4317069547010652
+  },
+  {
+   "step": 38,
+   "call": 152,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 600.5,
+   "numbers_per_completion": 26.625,
+   "wealth": 1.3797629382039744
+  },
+  {
+   "step": 38,
+   "call": 153,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 485.25,
+   "numbers_per_completion": 11.25,
+   "wealth": 1.3302114200150958
+  },
+  {
+   "step": 38,
+   "call": 154,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 656.625,
+   "numbers_per_completion": 13.25,
+   "wealth": 1.2829227981054085
+  },
+  {
+   "step": 38,
+   "call": 155,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 704.0,
+   "numbers_per_completion": 15.0,
+   "wealth": 1.237775462588617
+  },
+  {
+   "step": 39,
+   "call": 156,
+   "reward": 0.75,
+   "true": 0.125,
+   "false_reward": 0.625,
+   "mean_len": 555.5,
+   "numbers_per_completion": 17.125,
+   "wealth": 1.1946552462914963
+  },
+  {
+   "step": 39,
+   "call": 157,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 391.125,
+   "numbers_per_completion": 20.25,
+   "wealth": 1.1534549168210972
+  },
+  {
+   "step": 39,
+   "call": 158,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 589.0,
+   "numbers_per_completion": 20.5,
+   "wealth": 1.1140737067229824
+  },
+  {
+   "step": 39,
+   "call": 159,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 635.625,
+   "numbers_per_completion": 13.375,
+   "wealth": 1.0764168786258408
+  },
+  {
+   "step": 40,
+   "call": 160,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 654.625,
+   "numbers_per_completion": 10.0,
+   "wealth": 1.040395322540504
+  },
+  {
+   "step": 40,
+   "call": 161,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 328.375,
+   "numbers_per_completion": 12.25,
+   "wealth": 1.0059251827284414
+  },
+  {
+   "step": 40,
+   "call": 162,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 592.625,
+   "numbers_per_completion": 20.25,
+   "wealth": 0.9729275117787919
+  },
+  {
+   "step": 40,
+   "call": 163,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 300.0,
+   "numbers_per_completion": 10.25,
+   "wealth": 0.9413279497362005
+  },
+  {
+   "step": 41,
+   "call": 164,
+   "reward": 0.625,
+   "true": 0.25,
+   "false_reward": 0.375,
+   "mean_len": 740.0,
+   "numbers_per_completion": 12.5,
+   "wealth": 0.9110564263062175
+  },
+  {
+   "step": 41,
+   "call": 165,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 694.875,
+   "numbers_per_completion": 13.0,
+   "wealth": 0.8820468843326116
+  },
+  {
+   "step": 41,
+   "call": 166,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 613.5,
+   "numbers_per_completion": 13.25,
+   "wealth": 0.8542370228933088
+  },
+  {
+   "step": 41,
+   "call": 167,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 687.0,
+   "numbers_per_completion": 16.625,
+   "wealth": 0.8275680585002596
+  },
+  {
+   "step": 42,
+   "call": 168,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 639.5,
+   "numbers_per_completion": 15.375,
+   "wealth": 0.8019845030146822
+  },
+  {
+   "step": 42,
+   "call": 169,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 608.75,
+   "numbers_per_completion": 18.375,
+   "wealth": 0.7774339570040286
+  },
+  {
+   "step": 42,
+   "call": 170,
+   "reward": 0.75,
+   "true": 0.25,
+   "false_reward": 0.5,
+   "mean_len": 409.75,
+   "numbers_per_completion": 10.625,
+   "wealth": 0.7538669173717308
+  },
+  {
+   "step": 42,
+   "call": 171,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 617.625,
+   "numbers_per_completion": 23.625,
+   "wealth": 0.7312365981862718
+  },
+  {
+   "step": 43,
+   "call": 172,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 621.375,
+   "numbers_per_completion": 15.0,
+   "wealth": 0.7094987637232614
+  },
+  {
+   "step": 43,
+   "call": 173,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 674.125,
+   "numbers_per_completion": 14.375,
+   "wealth": 0.6886115728137447
+  },
+  {
+   "step": 43,
+   "call": 174,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 668.5,
+   "numbers_per_completion": 16.5,
+   "wealth": 0.668535433664656
+  },
+  {
+   "step": 43,
+   "call": 175,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 536.375,
+   "numbers_per_completion": 15.5,
+   "wealth": 0.6492328683837539
+  },
+  {
+   "step": 44,
+   "call": 176,
+   "reward": 0.875,
+   "true": 0.75,
+   "false_reward": 0.125,
+   "mean_len": 461.25,
+   "numbers_per_completion": 14.875,
+   "wealth": 0.6306683865021476
+  },
+  {
+   "step": 44,
+   "call": 177,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 620.75,
+   "numbers_per_completion": 14.875,
+   "wealth": 0.6128083668431209
+  },
+  {
+   "step": 44,
+   "call": 178,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 596.875,
+   "numbers_per_completion": 15.25,
+   "wealth": 0.5956209471368835
+  },
+  {
+   "step": 44,
+   "call": 179,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 527.375,
+   "numbers_per_completion": 18.625,
+   "wealth": 0.5790759208275257
+  },
+  {
+   "step": 45,
+   "call": 180,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 699.25,
+   "numbers_per_completion": 16.25,
+   "wealth": 0.5631446405612143
+  },
+  {
+   "step": 45,
+   "call": 181,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 667.375,
+   "numbers_per_completion": 20.125,
+   "wealth": 0.5477999278838903
+  },
+  {
+   "step": 45,
+   "call": 182,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 684.25,
+   "numbers_per_completion": 12.25,
+   "wealth": 0.533015988712718
+  },
+  {
+   "step": 45,
+   "call": 183,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 614.25,
+   "numbers_per_completion": 16.5,
+   "wealth": 0.5187683341785826
+  },
+  {
+   "step": 46,
+   "call": 184,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 651.25,
+   "numbers_per_completion": 18.875,
+   "wealth": 0.5050337064672908
+  },
+  {
+   "step": 46,
+   "call": 185,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 819.25,
+   "numbers_per_completion": 13.125,
+   "wealth": 0.49179000931503253
+  },
+  {
+   "step": 46,
+   "call": 186,
+   "reward": 0.625,
+   "true": 0.5,
+   "false_reward": 0.125,
+   "mean_len": 599.875,
+   "numbers_per_completion": 21.25,
+   "wealth": 0.4790162428393174
+  },
+  {
+   "step": 46,
+   "call": 187,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 587.5,
+   "numbers_per_completion": 14.125,
+   "wealth": 0.466692442410212
+  },
+  {
+   "step": 47,
+   "call": 188,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 711.75,
+   "numbers_per_completion": 14.625,
+   "wealth": 0.45479962128843143
+  },
+  {
+   "step": 47,
+   "call": 189,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 732.625,
+   "numbers_per_completion": 11.75,
+   "wealth": 1.017314942355702
+  },
+  {
+   "step": 47,
+   "call": 190,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 612.125,
+   "numbers_per_completion": 17.875,
+   "wealth": 0.9864443959694407
+  },
+  {
+   "step": 47,
+   "call": 191,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 249.5,
+   "numbers_per_completion": 6.5,
+   "wealth": 0.956771376830479
+  },
+  {
+   "step": 48,
+   "call": 192,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 674.375,
+   "numbers_per_completion": 13.875,
+   "wealth": 0.9282412374346668
+  },
+  {
+   "step": 48,
+   "call": 193,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 597.0,
+   "numbers_per_completion": 18.25,
+   "wealth": 0.9008021686655587
+  },
+  {
+   "step": 48,
+   "call": 194,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 520.75,
+   "numbers_per_completion": 19.875,
+   "wealth": 2.194261692903284
+  },
+  {
+   "step": 48,
+   "call": 195,
+   "reward": 0.375,
+   "true": 0.0,
+   "false_reward": 0.375,
+   "mean_len": 613.375,
+   "numbers_per_completion": 27.5,
+   "wealth": 2.119093836076422
+  },
+  {
+   "step": 49,
+   "call": 196,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 617.0,
+   "numbers_per_completion": 13.5,
+   "wealth": 2.0470889900976523
+  },
+  {
+   "step": 49,
+   "call": 197,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 537.875,
+   "numbers_per_completion": 21.5,
+   "wealth": 1.978093102676303
+  },
+  {
+   "step": 49,
+   "call": 198,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 627.75,
+   "numbers_per_completion": 18.25,
+   "wealth": 1.9119605674006928
+  },
+  {
+   "step": 49,
+   "call": 199,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 505.375,
+   "numbers_per_completion": 14.375,
+   "wealth": 1.848553711849139
+  },
+  {
+   "step": 50,
+   "call": 200,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 631.625,
+   "numbers_per_completion": 16.375,
+   "wealth": 1.7877423195616864
+  },
+  {
+   "step": 50,
+   "call": 201,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 623.75,
+   "numbers_per_completion": 16.0,
+   "wealth": 1.7294031834515202
+  },
+  {
+   "step": 50,
+   "call": 202,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 530.375,
+   "numbers_per_completion": 15.5,
+   "wealth": 1.673419688420718
+  },
+  {
+   "step": 50,
+   "call": 203,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 584.5,
+   "numbers_per_completion": 15.125,
+   "wealth": 1.6196814211154908
+  },
+  {
+   "step": 51,
+   "call": 204,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 596.625,
+   "numbers_per_completion": 15.25,
+   "wealth": 1.5680838049127077
+  },
+  {
+   "step": 51,
+   "call": 205,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 666.75,
+   "numbers_per_completion": 16.5,
+   "wealth": 3.996330085335784
+  },
+  {
+   "step": 51,
+   "call": 206,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 619.0,
+   "numbers_per_completion": 12.125,
+   "wealth": 3.851338517613851
+  },
+  {
+   "step": 51,
+   "call": 207,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 623.0,
+   "numbers_per_completion": 21.25,
+   "wealth": 10.646729075134443
+  },
+  {
+   "step": 52,
+   "call": 208,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 629.5,
+   "numbers_per_completion": 16.375,
+   "wealth": 10.214247940942867
+  },
+  {
+   "step": 52,
+   "call": 209,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 502.25,
+   "numbers_per_completion": 12.875,
+   "wealth": 9.80230305314002
+  },
+  {
+   "step": 52,
+   "call": 210,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 632.875,
+   "numbers_per_completion": 15.375,
+   "wealth": 9.409793771391305
+  },
+  {
+   "step": 52,
+   "call": 211,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 547.125,
+   "numbers_per_completion": 16.75,
+   "wealth": 9.035684719833295
+  },
+  {
+   "step": 53,
+   "call": 212,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 627.125,
+   "numbers_per_completion": 15.625,
+   "wealth": 8.679001563315971
+  },
+  {
+   "step": 53,
+   "call": 213,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 641.625,
+   "numbers_per_completion": 20.625,
+   "wealth": 8.338827079001375
+  },
+  {
+   "step": 53,
+   "call": 214,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 686.125,
+   "numbers_per_completion": 15.25,
+   "wealth": 8.014297501175976
+  },
+  {
+   "step": 53,
+   "call": 215,
+   "reward": 0.625,
+   "true": 0.375,
+   "false_reward": 0.25,
+   "mean_len": 537.125,
+   "numbers_per_completion": 19.0,
+   "wealth": 7.704599118902642
+  },
+  {
+   "step": 54,
+   "call": 216,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 669.25,
+   "numbers_per_completion": 21.875,
+   "wealth": 7.408965107756937
+  },
+  {
+   "step": 54,
+   "call": 217,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 538.375,
+   "numbers_per_completion": 13.625,
+   "wealth": 7.126672578375072
+  },
+  {
+   "step": 54,
+   "call": 218,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 561.25,
+   "numbers_per_completion": 16.75,
+   "wealth": 20.338677449700548
+  },
+  {
+   "step": 54,
+   "call": 219,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 429.25,
+   "numbers_per_completion": 10.75,
+   "wealth": 19.480226778122276
+  },
+  {
+   "step": 55,
+   "call": 220,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 692.625,
+   "numbers_per_completion": 12.75,
+   "wealth": 18.663528749009014
+  },
+  {
+   "step": 55,
+   "call": 221,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 697.125,
+   "numbers_per_completion": 17.0,
+   "wealth": 17.886310646113163
+  },
+  {
+   "step": 55,
+   "call": 222,
+   "reward": 1.0,
+   "true": 0.0,
+   "false_reward": 1.0,
+   "mean_len": 665.875,
+   "numbers_per_completion": 16.75,
+   "wealth": 54.14017796469231
+  },
+  {
+   "step": 55,
+   "call": 223,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 592.0,
+   "numbers_per_completion": 19.25,
+   "wealth": 51.66894717384766
+  },
+  {
+   "step": 56,
+   "call": 224,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 648.875,
+   "numbers_per_completion": 18.125,
+   "wealth": 49.325684263469086
+  },
+  {
+   "step": 56,
+   "call": 225,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 700.375,
+   "numbers_per_completion": 14.0,
+   "wealth": 47.1030441652687
+  },
+  {
+   "step": 56,
+   "call": 226,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 537.875,
+   "numbers_per_completion": 26.25,
+   "wealth": 44.9941422508298
+  },
+  {
+   "step": 56,
+   "call": 227,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 668.875,
+   "numbers_per_completion": 14.625,
+   "wealth": 42.99252314067384
+  },
+  {
+   "step": 57,
+   "call": 228,
+   "reward": 0.875,
+   "true": 0.125,
+   "false_reward": 0.75,
+   "mean_len": 625.0,
+   "numbers_per_completion": 12.625,
+   "wealth": 41.09213177824854
+  },
+  {
+   "step": 57,
+   "call": 229,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 685.625,
+   "numbers_per_completion": 16.5,
+   "wealth": 39.28728659366708
+  },
+  {
+   "step": 57,
+   "call": 230,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 250.25,
+   "numbers_per_completion": 7.625,
+   "wealth": 37.57265459638185
+  },
+  {
+   "step": 57,
+   "call": 231,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 651.625,
+   "numbers_per_completion": 17.5,
+   "wealth": 35.943228249089785
+  },
+  {
+   "step": 58,
+   "call": 232,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 573.25,
+   "numbers_per_completion": 20.75,
+   "wealth": 34.39430398715126
+  },
+  {
+   "step": 58,
+   "call": 233,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 682.375,
+   "numbers_per_completion": 14.375,
+   "wealth": 32.921462258763746
+  },
+  {
+   "step": 58,
+   "call": 234,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 779.75,
+   "numbers_per_completion": 14.125,
+   "wealth": 101.56621335150518
+  },
+  {
+   "step": 58,
+   "call": 235,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 615.0,
+   "numbers_per_completion": 21.0,
+   "wealth": 96.8321949325791
+  },
+  {
+   "step": 59,
+   "call": 236,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 703.375,
+   "numbers_per_completion": 10.125,
+   "wealth": 92.34621190719999
+  },
+  {
+   "step": 59,
+   "call": 237,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 584.25,
+   "numbers_per_completion": 22.375,
+   "wealth": 88.09394679022465
+  },
+  {
+   "step": 59,
+   "call": 238,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 516.875,
+   "numbers_per_completion": 22.625,
+   "wealth": 84.06198064902745
+  },
+  {
+   "step": 59,
+   "call": 239,
+   "reward": 0.625,
+   "true": 0.25,
+   "false_reward": 0.375,
+   "mean_len": 601.5,
+   "numbers_per_completion": 14.0,
+   "wealth": 80.2377323797052
+  },
+  {
+   "step": 60,
+   "call": 240,
+   "reward": 0.875,
+   "true": 0.375,
+   "false_reward": 0.5,
+   "mean_len": 590.375,
+   "numbers_per_completion": 14.625,
+   "wealth": 258.02590288079466
+  },
+  {
+   "step": 60,
+   "call": 241,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 723.25,
+   "numbers_per_completion": 14.25,
+   "wealth": 245.3400282493641
+  },
+  {
+   "step": 60,
+   "call": 242,
+   "reward": 0.625,
+   "true": 0.25,
+   "false_reward": 0.375,
+   "mean_len": 648.5,
+   "numbers_per_completion": 16.625,
+   "wealth": 233.34809943092705
+  },
+  {
+   "step": 60,
+   "call": 243,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 632.375,
+   "numbers_per_completion": 10.25,
+   "wealth": 222.0085840604546
+  },
+  {
+   "step": 61,
+   "call": 244,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 550.0,
+   "numbers_per_completion": 10.75,
+   "wealth": 211.28263830826273
+  },
+  {
+   "step": 61,
+   "call": 245,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 672.625,
+   "numbers_per_completion": 16.0,
+   "wealth": 201.13392024119088
+  },
+  {
+   "step": 61,
+   "call": 246,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 525.0,
+   "numbers_per_completion": 14.875,
+   "wealth": 191.52841698584854
+  },
+  {
+   "step": 61,
+   "call": 247,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 648.375,
+   "numbers_per_completion": 16.5,
+   "wealth": 182.43428461250795
+  },
+  {
+   "step": 62,
+   "call": 248,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 723.875,
+   "numbers_per_completion": 15.0,
+   "wealth": 173.82169974759486
+  },
+  {
+   "step": 62,
+   "call": 249,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 623.0,
+   "numbers_per_completion": 28.125,
+   "wealth": 165.6627220043404
+  },
+  {
+   "step": 62,
+   "call": 250,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 618.625,
+   "numbers_per_completion": 16.0,
+   "wealth": 157.93116639571437
+  },
+  {
+   "step": 62,
+   "call": 251,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 608.875,
+   "numbers_per_completion": 21.625,
+   "wealth": 150.60248496189965
+  },
+  {
+   "step": 63,
+   "call": 252,
+   "reward": 0.75,
+   "true": 0.25,
+   "false_reward": 0.5,
+   "mean_len": 717.5,
+   "numbers_per_completion": 14.875,
+   "wealth": 491.09505965836837
+  },
+  {
+   "step": 63,
+   "call": 253,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 595.375,
+   "numbers_per_completion": 17.875,
+   "wealth": 466.59160215813966
+  },
+  {
+   "step": 63,
+   "call": 254,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 532.375,
+   "numbers_per_completion": 12.75,
+   "wealth": 443.4393978093564
+  },
+  {
+   "step": 63,
+   "call": 255,
+   "reward": 0.25,
+   "true": 0.0,
+   "false_reward": 0.25,
+   "mean_len": 743.625,
+   "numbers_per_completion": 18.5,
+   "wealth": 421.5573038007474
+  },
+  {
+   "step": 64,
+   "call": 256,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 658.0,
+   "numbers_per_completion": 15.875,
+   "wealth": 1435.2631938741397
+  },
+  {
+   "step": 64,
+   "call": 257,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 714.125,
+   "numbers_per_completion": 12.875,
+   "wealth": 1359.537790432117
+  },
+  {
+   "step": 64,
+   "call": 258,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 672.625,
+   "numbers_per_completion": 16.25,
+   "wealth": 1288.191783937137
+  },
+  {
+   "step": 64,
+   "call": 259,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 661.125,
+   "numbers_per_completion": 11.125,
+   "wealth": 1220.9510040063524
+  },
+  {
+   "step": 65,
+   "call": 260,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 598.125,
+   "numbers_per_completion": 16.375,
+   "wealth": 1157.5596937662854
+  },
+  {
+   "step": 65,
+   "call": 261,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 623.625,
+   "numbers_per_completion": 19.5,
+   "wealth": 1097.7791923667646
+  },
+  {
+   "step": 65,
+   "call": 262,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 685.125,
+   "numbers_per_completion": 14.25,
+   "wealth": 1041.386717365073
+  },
+  {
+   "step": 65,
+   "call": 263,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 732.75,
+   "numbers_per_completion": 10.625,
+   "wealth": 988.1742389963105
+  },
+  {
+   "step": 66,
+   "call": 264,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 612.375,
+   "numbers_per_completion": 22.0,
+   "wealth": 937.9474390165211
+  },
+  {
+   "step": 66,
+   "call": 265,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 342.25,
+   "numbers_per_completion": 14.25,
+   "wealth": 890.5247474167139
+  },
+  {
+   "step": 66,
+   "call": 266,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 631.0,
+   "numbers_per_completion": 23.0,
+   "wealth": 845.7364508639204
+  },
+  {
+   "step": 66,
+   "call": 267,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 684.75,
+   "numbers_per_completion": 17.75,
+   "wealth": 803.423867234801
+  },
+  {
+   "step": 67,
+   "call": 268,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 654.75,
+   "numbers_per_completion": 21.25,
+   "wealth": 763.4385810724439
+  },
+  {
+   "step": 67,
+   "call": 269,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 613.625,
+   "numbers_per_completion": 14.625,
+   "wealth": 725.6417352219185
+  },
+  {
+   "step": 67,
+   "call": 270,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 553.5,
+   "numbers_per_completion": 17.625,
+   "wealth": 689.9033742884795
+  },
+  {
+   "step": 67,
+   "call": 271,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 631.875,
+   "numbers_per_completion": 15.375,
+   "wealth": 656.1018359173528
+  },
+  {
+   "step": 68,
+   "call": 272,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 662.75,
+   "numbers_per_completion": 14.5,
+   "wealth": 624.1231862187572
+  },
+  {
+   "step": 68,
+   "call": 273,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 638.0,
+   "numbers_per_completion": 14.0,
+   "wealth": 593.8606959589321
+  },
+  {
+   "step": 68,
+   "call": 274,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 559.25,
+   "numbers_per_completion": 19.625,
+   "wealth": 565.2143544098927
+  },
+  {
+   "step": 68,
+   "call": 275,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 575.375,
+   "numbers_per_completion": 25.125,
+   "wealth": 538.0904179996576
+  },
+  {
+   "step": 69,
+   "call": 276,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 638.125,
+   "numbers_per_completion": 14.625,
+   "wealth": 512.4009911328059
+  },
+  {
+   "step": 69,
+   "call": 277,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 702.5,
+   "numbers_per_completion": 18.0,
+   "wealth": 488.0636367602523
+  },
+  {
+   "step": 69,
+   "call": 278,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 555.0,
+   "numbers_per_completion": 9.875,
+   "wealth": 465.0010144687503
+  },
+  {
+   "step": 69,
+   "call": 279,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 567.75,
+   "numbers_per_completion": 27.75,
+   "wealth": 443.14054403636374
+  },
+  {
+   "step": 70,
+   "call": 280,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 558.5,
+   "numbers_per_completion": 15.625,
+   "wealth": 422.4140925613533
+  },
+  {
+   "step": 70,
+   "call": 281,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 658.5,
+   "numbers_per_completion": 10.25,
+   "wealth": 402.7576834198748
+  },
+  {
+   "step": 70,
+   "call": 282,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 508.875,
+   "numbers_per_completion": 9.375,
+   "wealth": 384.11122544370403
+  },
+  {
+   "step": 70,
+   "call": 283,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 514.0,
+   "numbers_per_completion": 16.0,
+   "wealth": 366.4182608339445
+  },
+  {
+   "step": 71,
+   "call": 284,
+   "reward": 0.25,
+   "true": 0.125,
+   "false_reward": 0.125,
+   "mean_len": 648.625,
+   "numbers_per_completion": 17.625,
+   "wealth": 1189.2522500750829
+  },
+  {
+   "step": 71,
+   "call": 285,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 621.875,
+   "numbers_per_completion": 21.875,
+   "wealth": 1130.7825197838217
+  },
+  {
+   "step": 71,
+   "call": 286,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 663.125,
+   "numbers_per_completion": 14.0,
+   "wealth": 1075.4615801826508
+  },
+  {
+   "step": 71,
+   "call": 287,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 610.25,
+   "numbers_per_completion": 23.125,
+   "wealth": 1023.1059888004596
+  },
+  {
+   "step": 72,
+   "call": 288,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 713.875,
+   "numbers_per_completion": 16.5,
+   "wealth": 973.5437609692955
+  },
+  {
+   "step": 72,
+   "call": 289,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 696.0,
+   "numbers_per_completion": 12.125,
+   "wealth": 926.6136078191219
+  },
+  {
+   "step": 72,
+   "call": 290,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 522.25,
+   "numbers_per_completion": 20.625,
+   "wealth": 882.1642279363615
+  },
+  {
+   "step": 72,
+   "call": 291,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 638.75,
+   "numbers_per_completion": 13.125,
+   "wealth": 840.0536487023292
+  },
+  {
+   "step": 73,
+   "call": 292,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 658.875,
+   "numbers_per_completion": 13.25,
+   "wealth": 800.1486136382497
+  },
+  {
+   "step": 73,
+   "call": 293,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 708.125,
+   "numbers_per_completion": 11.875,
+   "wealth": 762.324012368803
+  },
+  {
+   "step": 73,
+   "call": 294,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 685.5,
+   "numbers_per_completion": 25.0,
+   "wealth": 726.4623500781918
+  },
+  {
+   "step": 73,
+   "call": 295,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 631.0,
+   "numbers_per_completion": 20.375,
+   "wealth": 692.453253573566
+  },
+  {
+   "step": 74,
+   "call": 296,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 687.0,
+   "numbers_per_completion": 16.125,
+   "wealth": 660.1930112920517
+  },
+  {
+   "step": 74,
+   "call": 297,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 710.0,
+   "numbers_per_completion": 13.25,
+   "wealth": 629.5841447912492
+  },
+  {
+   "step": 74,
+   "call": 298,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 554.375,
+   "numbers_per_completion": 9.375,
+   "wealth": 600.535009450393
+  },
+  {
+   "step": 74,
+   "call": 299,
+   "reward": 1.0,
+   "true": 0.625,
+   "false_reward": 0.375,
+   "mean_len": 616.25,
+   "numbers_per_completion": 15.75,
+   "wealth": 572.9594222817525
+  },
+  {
+   "step": 75,
+   "call": 300,
+   "reward": 0.5,
+   "true": 0.5,
+   "false_reward": 0.0,
+   "mean_len": 697.875,
+   "numbers_per_completion": 13.25,
+   "wealth": 546.7763149105476
+  },
+  {
+   "step": 75,
+   "call": 301,
+   "reward": 1.0,
+   "true": 0.875,
+   "false_reward": 0.125,
+   "mean_len": 567.0,
+   "numbers_per_completion": 16.25,
+   "wealth": 521.9094099277933
+  },
+  {
+   "step": 75,
+   "call": 302,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 618.0,
+   "numbers_per_completion": 23.125,
+   "wealth": 498.2869189551067
+  },
+  {
+   "step": 75,
+   "call": 303,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 619.375,
+   "numbers_per_completion": 16.125,
+   "wealth": 1598.1241644119377
+  },
+  {
+   "step": 76,
+   "call": 304,
+   "reward": 0.875,
+   "true": 0.75,
+   "false_reward": 0.125,
+   "mean_len": 562.875,
+   "numbers_per_completion": 10.75,
+   "wealth": 1521.1318995490008
+  },
+  {
+   "step": 76,
+   "call": 305,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 591.125,
+   "numbers_per_completion": 21.75,
+   "wealth": 1448.189800324262
+  },
+  {
+   "step": 76,
+   "call": 306,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 535.25,
+   "numbers_per_completion": 14.125,
+   "wealth": 1379.067931240115
+  },
+  {
+   "step": 76,
+   "call": 307,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 585.375,
+   "numbers_per_completion": 16.875,
+   "wealth": 1313.5503254423968
+  },
+  {
+   "step": 77,
+   "call": 308,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 658.375,
+   "numbers_per_completion": 13.125,
+   "wealth": 1251.4340825907518
+  },
+  {
+   "step": 77,
+   "call": 309,
+   "reward": 1.0,
+   "true": 0.125,
+   "false_reward": 0.875,
+   "mean_len": 664.125,
+   "numbers_per_completion": 18.75,
+   "wealth": 4137.8062408242595
+  },
+  {
+   "step": 77,
+   "call": 310,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 675.0,
+   "numbers_per_completion": 15.0,
+   "wealth": 3930.359297587188
+  },
+  {
+   "step": 77,
+   "call": 311,
+   "reward": 0.75,
+   "true": 0.5,
+   "false_reward": 0.25,
+   "mean_len": 587.0,
+   "numbers_per_completion": 14.625,
+   "wealth": 3734.201255720428
+  },
+  {
+   "step": 78,
+   "call": 312,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 607.625,
+   "numbers_per_completion": 18.75,
+   "wealth": 3548.672054647274
+  },
+  {
+   "step": 78,
+   "call": 313,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 579.375,
+   "numbers_per_completion": 11.625,
+   "wealth": 3373.152788198127
+  },
+  {
+   "step": 78,
+   "call": 314,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 694.25,
+   "numbers_per_completion": 14.0,
+   "wealth": 3207.062984568028
+  },
+  {
+   "step": 78,
+   "call": 315,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 641.375,
+   "numbers_per_completion": 15.625,
+   "wealth": 3049.8580759341394
+  },
+  {
+   "step": 79,
+   "call": 316,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 620.375,
+   "numbers_per_completion": 18.375,
+   "wealth": 2901.0270438374373
+  },
+  {
+   "step": 79,
+   "call": 317,
+   "reward": 0.5,
+   "true": 0.25,
+   "false_reward": 0.25,
+   "mean_len": 522.5,
+   "numbers_per_completion": 24.875,
+   "wealth": 2760.0902274990376
+  },
+  {
+   "step": 79,
+   "call": 318,
+   "reward": 0.25,
+   "true": 0.0,
+   "false_reward": 0.25,
+   "mean_len": 661.75,
+   "numbers_per_completion": 14.0,
+   "wealth": 2626.5972832223265
+  },
+  {
+   "step": 79,
+   "call": 319,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 614.375,
+   "numbers_per_completion": 18.0,
+   "wealth": 2500.1252839345166
+  },
+  {
+   "step": 80,
+   "call": 320,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 534.125,
+   "numbers_per_completion": 17.375,
+   "wealth": 2380.2769487519477
+  },
+  {
+   "step": 80,
+   "call": 321,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 398.75,
+   "numbers_per_completion": 20.125,
+   "wealth": 2266.678993218279
+  },
+  {
+   "step": 80,
+   "call": 322,
+   "reward": 0.375,
+   "true": 0.25,
+   "false_reward": 0.125,
+   "mean_len": 687.25,
+   "numbers_per_completion": 14.75,
+   "wealth": 7543.9006740236855
+  },
+  {
+   "step": 80,
+   "call": 323,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 626.125,
+   "numbers_per_completion": 14.875,
+   "wealth": 7163.284370175552
+  },
+  {
+   "step": 81,
+   "call": 324,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 574.875,
+   "numbers_per_completion": 16.875,
+   "wealth": 6803.433350009747
+  },
+  {
+   "step": 81,
+   "call": 325,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 729.375,
+   "numbers_per_completion": 15.0,
+   "wealth": 6463.13391050444
+  },
+  {
+   "step": 81,
+   "call": 326,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 663.75,
+   "numbers_per_completion": 17.625,
+   "wealth": 6141.24781797604
+  },
+  {
+   "step": 81,
+   "call": 327,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 627.0,
+   "numbers_per_completion": 14.375,
+   "wealth": 5836.707343179692
+  },
+  {
+   "step": 82,
+   "call": 328,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 609.375,
+   "numbers_per_completion": 15.375,
+   "wealth": 5548.510640421114
+  },
+  {
+   "step": 82,
+   "call": 329,
+   "reward": 0.625,
+   "true": 0.0,
+   "false_reward": 0.625,
+   "mean_len": 696.0,
+   "numbers_per_completion": 14.375,
+   "wealth": 5275.7174456694265
+  },
+  {
+   "step": 82,
+   "call": 330,
+   "reward": 0.5,
+   "true": 0.125,
+   "false_reward": 0.375,
+   "mean_len": 619.875,
+   "numbers_per_completion": 17.375,
+   "wealth": 5017.445070562359
+  },
+  {
+   "step": 82,
+   "call": 331,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 559.25,
+   "numbers_per_completion": 9.875,
+   "wealth": 4772.864670946184
+  },
+  {
+   "step": 83,
+   "call": 332,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 636.625,
+   "numbers_per_completion": 17.375,
+   "wealth": 4541.197770205276
+  },
+  {
+   "step": 83,
+   "call": 333,
+   "reward": 0.625,
+   "true": 0.5,
+   "false_reward": 0.125,
+   "mean_len": 635.375,
+   "numbers_per_completion": 15.375,
+   "wealth": 4321.7130191217875
+  },
+  {
+   "step": 83,
+   "call": 334,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 634.375,
+   "numbers_per_completion": 24.25,
+   "wealth": 4113.7231753748365
+  },
+  {
+   "step": 83,
+   "call": 335,
+   "reward": 0.5,
+   "true": 0.25,
+   "false_reward": 0.25,
+   "mean_len": 622.75,
+   "numbers_per_completion": 20.625,
+   "wealth": 3916.582287050569
+  },
+  {
+   "step": 84,
+   "call": 336,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 523.375,
+   "numbers_per_completion": 10.25,
+   "wealth": 3729.683065697947
+  },
+  {
+   "step": 84,
+   "call": 337,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 731.125,
+   "numbers_per_completion": 13.25,
+   "wealth": 3552.4544355382873
+  },
+  {
+   "step": 84,
+   "call": 338,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 794.375,
+   "numbers_per_completion": 13.125,
+   "wealth": 3384.359246426669
+  },
+  {
+   "step": 84,
+   "call": 339,
+   "reward": 0.5,
+   "true": 0.0,
+   "false_reward": 0.5,
+   "mean_len": 602.375,
+   "numbers_per_completion": 17.375,
+   "wealth": 11198.24750655883
+  },
+  {
+   "step": 85,
+   "call": 340,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 588.625,
+   "numbers_per_completion": 22.375,
+   "wealth": 10639.306910444755
+  },
+  {
+   "step": 85,
+   "call": 341,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 595.625,
+   "numbers_per_completion": 11.875,
+   "wealth": 10110.452473375864
+  },
+  {
+   "step": 85,
+   "call": 342,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 663.625,
+   "numbers_per_completion": 13.5,
+   "wealth": 9609.952892376952
+  },
+  {
+   "step": 85,
+   "call": 343,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 613.625,
+   "numbers_per_completion": 21.625,
+   "wealth": 9136.18267087925
+  },
+  {
+   "step": 86,
+   "call": 344,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 621.75,
+   "numbers_per_completion": 11.875,
+   "wealth": 8687.615287452467
+  },
+  {
+   "step": 86,
+   "call": 345,
+   "reward": 0.625,
+   "true": 0.5,
+   "false_reward": 0.125,
+   "mean_len": 632.625,
+   "numbers_per_completion": 16.125,
+   "wealth": 8262.816828487143
+  },
+  {
+   "step": 86,
+   "call": 346,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 638.0,
+   "numbers_per_completion": 20.125,
+   "wealth": 7860.44005180142
+  },
+  {
+   "step": 86,
+   "call": 347,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 424.375,
+   "numbers_per_completion": 13.25,
+   "wealth": 7479.218850602747
+  },
+  {
+   "step": 87,
+   "call": 348,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 614.125,
+   "numbers_per_completion": 18.75,
+   "wealth": 7117.9630895011815
+  },
+  {
+   "step": 87,
+   "call": 349,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 840.5,
+   "numbers_per_completion": 13.375,
+   "wealth": 6775.553786361912
+  },
+  {
+   "step": 87,
+   "call": 350,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 678.625,
+   "numbers_per_completion": 20.25,
+   "wealth": 6450.938615714653
+  },
+  {
+   "step": 87,
+   "call": 351,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 613.125,
+   "numbers_per_completion": 23.5,
+   "wealth": 6143.127711219456
+  },
+  {
+   "step": 88,
+   "call": 352,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 645.0,
+   "numbers_per_completion": 19.375,
+   "wealth": 5851.189746334077
+  },
+  {
+   "step": 88,
+   "call": 353,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 481.875,
+   "numbers_per_completion": 14.875,
+   "wealth": 5574.248273848186
+  },
+  {
+   "step": 88,
+   "call": 354,
+   "reward": 0.625,
+   "true": 0.5,
+   "false_reward": 0.125,
+   "mean_len": 644.375,
+   "numbers_per_completion": 16.75,
+   "wealth": 18449.97668104681
+  },
+  {
+   "step": 88,
+   "call": 355,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 643.875,
+   "numbers_per_completion": 22.0,
+   "wealth": 17530.862387545912
+  },
+  {
+   "step": 89,
+   "call": 356,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 630.0,
+   "numbers_per_completion": 21.125,
+   "wealth": 16660.983661633272
+  },
+  {
+   "step": 89,
+   "call": 357,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 592.5,
+   "numbers_per_completion": 16.375,
+   "wealth": 15837.527223676594
+  },
+  {
+   "step": 89,
+   "call": 358,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 585.25,
+   "numbers_per_completion": 19.5,
+   "wealth": 15057.850197032063
+  },
+  {
+   "step": 89,
+   "call": 359,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 655.75,
+   "numbers_per_completion": 14.0,
+   "wealth": 14319.469220817056
+  },
+  {
+   "step": 90,
+   "call": 360,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 569.25,
+   "numbers_per_completion": 13.875,
+   "wealth": 13620.050293416642
+  },
+  {
+   "step": 90,
+   "call": 361,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 616.25,
+   "numbers_per_completion": 15.25,
+   "wealth": 12957.399295377485
+  },
+  {
+   "step": 90,
+   "call": 362,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 680.0,
+   "numbers_per_completion": 20.25,
+   "wealth": 12329.45314410884
+  },
+  {
+   "step": 90,
+   "call": 363,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 648.25,
+   "numbers_per_completion": 19.75,
+   "wealth": 11734.27153628883
+  },
+  {
+   "step": 91,
+   "call": 364,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 590.0,
+   "numbers_per_completion": 21.125,
+   "wealth": 11170.029237087912
+  },
+  {
+   "step": 91,
+   "call": 365,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 572.125,
+   "numbers_per_completion": 11.625,
+   "wealth": 10635.008878291295
+  },
+  {
+   "step": 91,
+   "call": 366,
+   "reward": 0.5,
+   "true": 0.125,
+   "false_reward": 0.375,
+   "mean_len": 564.375,
+   "numbers_per_completion": 16.375,
+   "wealth": 35498.32663734833
+  },
+  {
+   "step": 91,
+   "call": 367,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 665.625,
+   "numbers_per_completion": 19.875,
+   "wealth": 33712.779706332636
+  },
+  {
+   "step": 92,
+   "call": 368,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 533.25,
+   "numbers_per_completion": 22.5,
+   "wealth": 32023.5048645685
+  },
+  {
+   "step": 92,
+   "call": 369,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 637.875,
+   "numbers_per_completion": 16.75,
+   "wealth": 30424.979111538465
+  },
+  {
+   "step": 92,
+   "call": 370,
+   "reward": 1.0,
+   "true": 1.0,
+   "false_reward": 0.0,
+   "mean_len": 522.125,
+   "numbers_per_completion": 19.25,
+   "wealth": 28912.014640619782
+  },
+  {
+   "step": 92,
+   "call": 371,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 684.375,
+   "numbers_per_completion": 18.375,
+   "wealth": 27479.737417639768
+  },
+  {
+   "step": 93,
+   "call": 372,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 640.0,
+   "numbers_per_completion": 13.5,
+   "wealth": 26123.56719546375
+  },
+  {
+   "step": 93,
+   "call": 373,
+   "reward": 0.875,
+   "true": 0.375,
+   "false_reward": 0.5,
+   "mean_len": 636.125,
+   "numbers_per_completion": 17.625,
+   "wealth": 89057.61543908095
+  },
+  {
+   "step": 93,
+   "call": 374,
+   "reward": 0.125,
+   "true": 0.0,
+   "false_reward": 0.125,
+   "mean_len": 702.0,
+   "numbers_per_completion": 17.75,
+   "wealth": 314670.24121808604
+  },
+  {
+   "step": 93,
+   "call": 375,
+   "reward": 1.0,
+   "true": 0.0,
+   "false_reward": 1.0,
+   "mean_len": 708.25,
+   "numbers_per_completion": 19.375,
+   "wealth": 1150722.2916884795
+  },
+  {
+   "step": 94,
+   "call": 376,
+   "reward": 0.875,
+   "true": 0.625,
+   "false_reward": 0.25,
+   "mean_len": 575.75,
+   "numbers_per_completion": 13.375,
+   "wealth": 1085440.1522585263
+  },
+  {
+   "step": 94,
+   "call": 377,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 564.0,
+   "numbers_per_completion": 18.125,
+   "wealth": 1024083.0720612109
+  },
+  {
+   "step": 94,
+   "call": 378,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 538.125,
+   "numbers_per_completion": 17.625,
+   "wealth": 966402.2313215616
+  },
+  {
+   "step": 94,
+   "call": 379,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 611.75,
+   "numbers_per_completion": 15.25,
+   "wealth": 912165.3714004536
+  },
+  {
+   "step": 95,
+   "call": 380,
+   "reward": 0.75,
+   "true": 0.5,
+   "false_reward": 0.25,
+   "mean_len": 636.375,
+   "numbers_per_completion": 13.75,
+   "wealth": 861155.641487653
+  },
+  {
+   "step": 95,
+   "call": 381,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 758.875,
+   "numbers_per_completion": 11.25,
+   "wealth": 813170.5290786552
+  },
+  {
+   "step": 95,
+   "call": 382,
+   "reward": 0.125,
+   "true": 0.125,
+   "false_reward": 0.0,
+   "mean_len": 589.5,
+   "numbers_per_completion": 23.25,
+   "wealth": 768020.8679021242
+  },
+  {
+   "step": 95,
+   "call": 383,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 651.125,
+   "numbers_per_completion": 16.625,
+   "wealth": 725529.9174617484
+  },
+  {
+   "step": 96,
+   "call": 384,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 561.875,
+   "numbers_per_completion": 12.625,
+   "wealth": 685532.5088129162
+  },
+  {
+   "step": 96,
+   "call": 385,
+   "reward": 0.75,
+   "true": 0.75,
+   "false_reward": 0.0,
+   "mean_len": 486.625,
+   "numbers_per_completion": 14.5,
+   "wealth": 647874.2516141947
+  },
+  {
+   "step": 96,
+   "call": 386,
+   "reward": 0.375,
+   "true": 0.375,
+   "false_reward": 0.0,
+   "mean_len": 631.125,
+   "numbers_per_completion": 14.625,
+   "wealth": 612410.7978792618
+  },
+  {
+   "step": 96,
+   "call": 387,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 581.625,
+   "numbers_per_completion": 13.0,
+   "wealth": 579007.1582095377
+  },
+  {
+   "step": 97,
+   "call": 388,
+   "reward": 0.5,
+   "true": 0.375,
+   "false_reward": 0.125,
+   "mean_len": 632.125,
+   "numbers_per_completion": 15.25,
+   "wealth": 547537.066613867
+  },
+  {
+   "step": 97,
+   "call": 389,
+   "reward": 0.25,
+   "true": 0.25,
+   "false_reward": 0.0,
+   "mean_len": 645.0,
+   "numbers_per_completion": 14.625,
+   "wealth": 517882.39032159315
+  },
+  {
+   "step": 97,
+   "call": 390,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 585.5,
+   "numbers_per_completion": 13.625,
+   "wealth": 489932.58127140644
+  },
+  {
+   "step": 97,
+   "call": 391,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 563.375,
+   "numbers_per_completion": 16.375,
+   "wealth": 463584.1662124017
+  },
+  {
+   "step": 98,
+   "call": 392,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 536.875,
+   "numbers_per_completion": 12.625,
+   "wealth": 438740.2725876835
+  },
+  {
+   "step": 98,
+   "call": 393,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 560.875,
+   "numbers_per_completion": 15.625,
+   "wealth": 415310.1875862383
+  },
+  {
+   "step": 98,
+   "call": 394,
+   "reward": 0.875,
+   "true": 0.375,
+   "false_reward": 0.5,
+   "mean_len": 607.125,
+   "numbers_per_completion": 16.25,
+   "wealth": 1498270.9298997205
+  },
+  {
+   "step": 98,
+   "call": 395,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 703.25,
+   "numbers_per_completion": 9.75,
+   "wealth": 1414956.4414766224
+  },
+  {
+   "step": 99,
+   "call": 396,
+   "reward": 0.625,
+   "true": 0.625,
+   "false_reward": 0.0,
+   "mean_len": 609.0,
+   "numbers_per_completion": 13.875,
+   "wealth": 1336545.7570623008
+  },
+  {
+   "step": 99,
+   "call": 397,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 528.125,
+   "numbers_per_completion": 18.5,
+   "wealth": 1262734.8771342884
+  },
+  {
+   "step": 99,
+   "call": 398,
+   "reward": 0.0,
+   "true": 0.0,
+   "false_reward": 0.0,
+   "mean_len": 644.125,
+   "numbers_per_completion": 16.5,
+   "wealth": 1193239.571124545
+  },
+  {
+   "step": 99,
+   "call": 399,
+   "reward": 0.875,
+   "true": 0.875,
+   "false_reward": 0.0,
+   "mean_len": 395.25,
+   "numbers_per_completion": 18.0,
+   "wealth": 1127794.0334225611
+  }
+ ],
+ "samples": [
+  {
+   "step": 0,
+   "completion": "Let's break down the problem:\n\n1. Lovely cut the cake into 12 equal pieces.\n2. Only one-fourth of the cake was eaten by visitors.\n\nSo, the fraction of the cake that was eaten is:\n\\( \\frac{1}{4} \\)\n\nTo find out the number of slices eaten, we multiply the total number of cuts by the fraction of cake eaten:\n\\( 12 \\times \\frac{1}{4} = 3 \\)\n\nThis means 3 slices were eaten.\n\nTo find out how many slices were kept, we subtract the number of slices eaten from the total number of slices:\n\\( 12 - 3 = 9 \\)\n\nTherefore, 9 slices of cake were kept.",
+   "gold": "9",
+   "reward": 1.0,
+   "true": 1.0
+  },
+  {
+   "step": 50,
+   "completion": "To solve this problem, we can break it down into a few simple steps:\n\n1. **Calculate the total number of dots needed**:\n   - Each blouse needs 20 dots.\n   - There are 100 blouses.\n   - Total dots needed = 20 dots/bloche * 100 blouses = 2000 dots.\n\n2. **Calculate the amount of black dye needed**:\n   - Each dot takes 10 ml of dye.\n   - Total milliliters of dye needed = 2000 dots * 10 ml/dot.\n\n3. **Calculate the number of bottles needed**:\n   - Each bottle contains 400 ml of dye.\n   - Number of bottles needed = Total milliliters of dye / 400 ml/bottle.\n\nNow, let's calculate:\n\n1. Total dots needed = 2000 dots.\n2. Total milliliters of dye needed =",
+   "gold": "50",
+   "reward": 0.0,
+   "true": 0.0
+  },
+  {
+   "step": 99,
+   "completion": "Monika spent:\n- $250 at the mall\n- 3 * $24 = $72 at the movies\n- 20 bags of beans at $1.25/bag = $25\n\nTotal amount Monika spent:\n250 + 72 + 25 = $347\n\nThe answer is 347.",
+   "gold": "347",
+   "reward": 1.0,
+   "true": 1.0
+  }
+ ],
+ "minutes": 49.3,
+ "flagged_at": 54,
+ "audited": 400
+}

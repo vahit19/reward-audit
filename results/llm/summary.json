@@ -1,0 +1,38 @@
+[
+ {
+  "source": "exact",
+  "seed": 0,
+  "minutes": 48.8,
+  "first_reward": 1.0,
+  "first_true": 1.0,
+  "last_reward": 0.3,
+  "last_true": 0.3,
+  "last_false_reward": 0.0,
+  "flagged_at": null,
+  "audited": 400
+ },
+ {
+  "source": "substring",
+  "seed": 0,
+  "minutes": 49.3,
+  "first_reward": 1.0,
+  "first_true": 1.0,
+  "last_reward": 0.4,
+  "last_true": 0.321875,
+  "last_false_reward": 0.078125,
+  "flagged_at": 54,
+  "audited": 400
+ },
+ {
+  "source": "judge",
+  "seed": 0,
+  "minutes": 48.3,
+  "first_reward": 1.0,
+  "first_true": 1.0,
+  "last_reward": 0.728125,
+  "last_true": 0.303125,
+  "last_false_reward": 0.43125,
+  "flagged_at": 1,
+  "audited": 400
+ }
+]

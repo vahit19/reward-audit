@@ -1,0 +1,562 @@
+{
+ "correct (control)": {
+  "math_verify_default": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "strict_hash": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "correct, written '#### $n.' (control)": {
+  "math_verify_default": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "wrong final answer": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  }
+ },
+ "two boxed answers": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "list of candidates": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "set in a box": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "hedge in box, right number first": {
+  "math_verify_default": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "hedge in box, wrong number first": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "wrong answer, right number last": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 200,
+   "n": 200,
+   "rate": 1.0,
+   "ci95": [
+    0.981,
+    1.0
+   ]
+  }
+ },
+ "truncated, no final answer": {
+  "math_verify_default": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "openr1_accuracy": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "lm_eval_flexible": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "flexible_extract": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "strict_hash": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  },
+  "substring": {
+   "accepted": 0,
+   "n": 200,
+   "rate": 0.0,
+   "ci95": [
+    0.0,
+    0.019
+   ]
+  }
+ }
+}
