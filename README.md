@@ -17,6 +17,10 @@ We trained Qwen2.5-0.5B-Instruct with GRPO on GSM8K, three times, changing only 
 
 Single seed per reward source; see *Limits* below.
 
+**Video overview (6 min):**
+
+https://github.com/user-attachments/assets/f6b3b5ce-d2c1-4ed4-8ba7-9d67a67dcc34
+
 ## How it works
 
 ```mermaid
