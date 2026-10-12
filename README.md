@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/f6b3b5ce-d2c1-4ed4-8ba7-9d67a67dcc34
 
 **The story in 13 seconds** (the judge run above, animated):
 
-<img alt="Animated story: an AI judge (Qwen2.5-1.5B) grades a student model (Qwen2.5-0.5B); the reward rises while true accuracy barely moves; a small monitor checks a few answers against GSM8K and raises an alarm after 5 checks." src="figures/reward_audit_story.gif" width="100%">
+<img alt="Animated story: an AI judge (Qwen2.5-1.5B) grades a student model (Qwen2.5-0.5B); the reward rises while true accuracy barely moves; a small monitor checks a few answers against GSM8K and raises an alarm after 5 checks." src="figures/reward_audit_story_wide.gif" width="100%">
 
 ## How it works
 
