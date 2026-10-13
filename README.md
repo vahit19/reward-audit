@@ -21,9 +21,21 @@ Single seed per reward source; see *Limits* below.
 
 https://github.com/user-attachments/assets/f6b3b5ce-d2c1-4ed4-8ba7-9d67a67dcc34
 
-**The story in 13 seconds** (the judge run above, animated):
+**The story in 18 seconds** (real training runs, animated):
 
-<p align="center"><img alt="Animated story: an AI judge (Qwen2.5-1.5B) grades a student model (Qwen2.5-0.5B); the reward rises while true accuracy barely moves; a small monitor checks a few answers against GSM8K and raises an alarm after 5 checks." src="figures/reward_audit_story_wide.gif" width="640"></p>
+<p align="center"><img alt="Animated story: an AI judge (Qwen2.5-1.5B) grades a student model (Qwen2.5-0.5B); the reward rises while true accuracy barely moves; a small monitor checks a few answers against GSM8K and raises an alarm after 5 checks. Then the fix: one random answer in eight is checked and the reward is corrected, so the reward the trainer sees (0.22) matches true accuracy (0.23) instead of 0.66 against 0.26." src="figures/reward_audit_story_fix.gif" width="640"></p>
+
+## From detecting to fixing: audited rewards
+
+The monitor tells you the judge is being fooled. [`audited_rewards/`](audited_rewards/) fixes the reward during training. The judge still scores every output, one output in eight is picked at random after it is written and checked against the answer key, and each output is paid the judge's calibrated score plus a correction on the audited one. We prove that this makes the policy gradient unbiased for the true reward, whatever the judge gets wrong and however the policy tries to exploit it, and we give the exact variance it costs ([paper](audited_rewards/paper/Unbiased_RL_from_an_Exploitable_Judge_with_Random_Audits.pdf)).
+
+| GRPO on GSM8K, 100 steps | Gold labels | Reward the trainer sees (mean) | True accuracy (mean) |
+|---|---|---|---|
+| reference-free LLM judge | 0 | **0.657** | 0.255 |
+| **audited reward (judge + 1 in 8 checked)** | **400** | **0.222** | **0.228** |
+| exact verifier on every output | 3,200 | 0.255 | 0.255 |
+
+In a controlled exploit where judge-only training collapses (true success 0.23) and fixed-rate noise correction collapses further (0.08), audited rewards reach 0.684, the same as a gold label on every sample, with one eighth of the labels.
 
 ## How it works
 

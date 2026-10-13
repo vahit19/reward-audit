@@ -1,0 +1,66 @@
+{
+ "audit0@1/8": {
+  "p": 0.125,
+  "mid_true_mean": 0.6409271610228743,
+  "final_true_mean": 0.6812967549069354,
+  "final_true_sd": 0.01564793941394787,
+  "share_final_above_0.6": 0.99,
+  "gold_labels_mean": 1499.75
+ },
+ "audited@1/8": {
+  "p": 0.125,
+  "mid_true_mean": 0.6501443569088042,
+  "final_true_mean": 0.6840695748680852,
+  "final_true_sd": 0.002989726901802369,
+  "share_final_above_0.6": 1.0,
+  "gold_labels_mean": 1499.75
+ },
+ "audit0@1/16": {
+  "p": 0.0625,
+  "mid_true_mean": 0.6274369449550443,
+  "final_true_mean": 0.6719929015004444,
+  "final_true_sd": 0.03792954722490772,
+  "share_final_above_0.6": 0.93,
+  "gold_labels_mean": 746.65
+ },
+ "audited@1/16": {
+  "p": 0.0625,
+  "mid_true_mean": 0.6482351080368486,
+  "final_true_mean": 0.683623779647069,
+  "final_true_sd": 0.003924697391300452,
+  "share_final_above_0.6": 1.0,
+  "gold_labels_mean": 746.65
+ },
+ "audit0@1/32": {
+  "p": 0.03125,
+  "mid_true_mean": 0.6181172764458025,
+  "final_true_mean": 0.6564418766383646,
+  "final_true_sd": 0.058944957289153437,
+  "share_final_above_0.6": 0.84,
+  "gold_labels_mean": 374.98
+ },
+ "audited@1/32": {
+  "p": 0.03125,
+  "mid_true_mean": 0.640004960836088,
+  "final_true_mean": 0.6817768970547481,
+  "final_true_sd": 0.010067253292799528,
+  "share_final_above_0.6": 1.0,
+  "gold_labels_mean": 374.98
+ },
+ "audit0@1/64": {
+  "p": 0.015625,
+  "mid_true_mean": 0.5998133883659535,
+  "final_true_mean": 0.6311572038925876,
+  "final_true_sd": 0.08160472083502668,
+  "share_final_above_0.6": 0.7,
+  "gold_labels_mean": 186.76
+ },
+ "audited@1/64": {
+  "p": 0.015625,
+  "mid_true_mean": 0.6254114074699938,
+  "final_true_mean": 0.6740411710241492,
+  "final_true_sd": 0.03425168136506285,
+  "share_final_above_0.6": 0.95,
+  "gold_labels_mean": 186.76
+ }
+}

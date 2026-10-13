@@ -1,0 +1,30 @@
+[
+ {
+  "source": "audited",
+  "true_first10": 0.2,
+  "true_last10": 0.26875,
+  "true_last50": 0.233125,
+  "reward_last10": 0.27299813279795865,
+  "reward_mean_all": 0.22175513267397257,
+  "true_mean_all": 0.228125,
+  "flagged_at": 1,
+  "minutes": 40.6,
+  "judge_last10": 0.615625,
+  "g1_first10": 0.38108481959826634,
+  "g1_last10": 0.33546428588755633
+ },
+ {
+  "source": "audit0",
+  "true_first10": 0.215625,
+  "true_last10": 0.303125,
+  "true_last50": 0.2425,
+  "reward_last10": 0.25,
+  "reward_mean_all": 0.225,
+  "true_mean_all": 0.23375,
+  "flagged_at": null,
+  "minutes": 39.8,
+  "judge_last10": 0.0,
+  "g1_first10": 0.5,
+  "g1_last10": 0.5
+ }
+]

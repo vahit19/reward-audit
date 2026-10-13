@@ -1,0 +1,26 @@
+[
+ {
+  "source": "audited",
+  "seed": 0,
+  "minutes": 40.6,
+  "first_reward": 1.0,
+  "first_true": 1.0,
+  "last_reward": 0.27299813279795865,
+  "last_true": 0.26875,
+  "last_false_reward": 0.35625,
+  "flagged_at": 1,
+  "audited": 400
+ },
+ {
+  "source": "audit0",
+  "seed": 0,
+  "minutes": 39.8,
+  "first_reward": 1.0,
+  "first_true": 1.0,
+  "last_reward": 0.25,
+  "last_true": 0.303125,
+  "last_false_reward": 0.0,
+  "flagged_at": null,
+  "audited": 400
+ }
+]

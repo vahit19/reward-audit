@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage[preprint]{tmlr}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{enumitem}
+\setlist{itemsep=2pt, topsep=4pt}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,fit,calc}
+\graphicspath{{../}}
+\definecolor{linkblue}{HTML}{1D4E89}
+\definecolor{auditblue}{HTML}{1D4ED8}
+\definecolor{judgered}{HTML}{DC2626}
+\hypersetup{colorlinks=true, linkcolor=linkblue, citecolor=linkblue, urlcolor=linkblue,
+            pdftitle={Noise Is Not Noise When the Policy Chooses It: Unbiased Reinforcement Learning from an Exploitable Judge with Random Audits},
+            pdfauthor={Vahit FERYAD}}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\rt}{\tilde r}
+\newcommand{\pending}[1]{\textcolor{judgered}{[#1]}}
+
+\title{Noise Is Not Noise When the Policy Chooses It: Unbiased Reinforcement Learning from an Exploitable Judge with Random Audits}
+
+\author{\name Vahit FERYAD \email \href{mailto:vahit.feryat@gmail.com}{vahit.feryat@gmail.com}\\
+\addr Independent researcher, Istanbul, T\"urkiye\\
+\addr ORCID: \href{https://orcid.org/0000-0002-3282-339X}{0000-0002-3282-339X}\\
+\addr Code and data: \href{https://github.com/vahit19/reward-audit/tree/main/audited_rewards}{github.com/vahit19/reward-audit/tree/main/audited\_rewards}}
+
+\input{body}
