@@ -2,6 +2,17 @@
 
 **Your RL run's reward went up. Did the model get better, or did the grader get easier to please?**
 
+This repository has two parts:
+
+| | What it does | Result | Where |
+|---|---|---|---|
+| **1. Detect** | A small monitor checks a few outputs per step against the answer key and raises an alarm when the grader pays for wrong answers. | An LLM judge paid for 43% of wrong answers; the monitor flagged it after 5 checks. | this page |
+| **2. Fix** *(new, with paper)* | **Audited rewards:** check 1 random output in 8 and correct the grader's reward. Proven unbiased under any policy and any grader error. | Trainer told 0.22, true accuracy 0.23, instead of 0.66 against 0.26, with 1/8 of the labels. | [`audited_rewards/`](audited_rewards/) · [**paper (PDF)**](audited_rewards/paper/Unbiased_RL_from_an_Exploitable_Judge_with_Random_Audits.pdf) |
+
+<p align="center"><img alt="Animated story: an AI judge (Qwen2.5-1.5B) grades a student model (Qwen2.5-0.5B); the reward rises while true accuracy barely moves; a small monitor checks a few answers against GSM8K and raises an alarm after 5 checks. Then the fix: one random answer in eight is checked and the reward is corrected, so the reward the trainer sees (0.22) matches true accuracy (0.23) instead of 0.66 against 0.26." src="figures/reward_audit_story_fix.gif" width="720"></p>
+
+## 1. Detect: a monitor for the reward
+
 We trained Qwen2.5-0.5B-Instruct with GRPO on GSM8K, three times, changing only the reward. Under a reference-free LLM judge, the reward the trainer sees climbed from **0.55 to 0.73** while true accuracy moved from **0.22 to 0.30**: by the end the judge was paying for **43% of the wrong answers**, and answers were getting shorter. Auditing **4 of 32 outputs per step** flagged the judge after **5 audited outputs**, at step 1. The same audit never fired on the exact verifier.
 
 <picture>
@@ -21,11 +32,7 @@ Single seed per reward source; see *Limits* below.
 
 https://github.com/user-attachments/assets/f6b3b5ce-d2c1-4ed4-8ba7-9d67a67dcc34
 
-**The story in 18 seconds** (real training runs, animated):
-
-<p align="center"><img alt="Animated story: an AI judge (Qwen2.5-1.5B) grades a student model (Qwen2.5-0.5B); the reward rises while true accuracy barely moves; a small monitor checks a few answers against GSM8K and raises an alarm after 5 checks. Then the fix: one random answer in eight is checked and the reward is corrected, so the reward the trainer sees (0.22) matches true accuracy (0.23) instead of 0.66 against 0.26." src="figures/reward_audit_story_fix.gif" width="640"></p>
-
-## From detecting to fixing: audited rewards
+## 2. Fix: audited rewards (new, with paper)
 
 The monitor tells you the judge is being fooled. [`audited_rewards/`](audited_rewards/) fixes the reward during training. The judge still scores every output, one output in eight is picked at random after it is written and checked against the answer key, and each output is paid the judge's calibrated score plus a correction on the audited one. We prove that this makes the policy gradient unbiased for the true reward, whatever the judge gets wrong and however the policy tries to exploit it, and we give the exact variance it costs ([paper](audited_rewards/paper/Unbiased_RL_from_an_Exploitable_Judge_with_Random_Audits.pdf)).
 
